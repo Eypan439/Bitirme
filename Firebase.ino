@@ -21,18 +21,18 @@
 #include <addons/TokenHelper.h>
 
 //Replace with your network credentials
-const char* ssid = "DESKTOP-AAQNGKU 3297";
-const char* password = "2M7^4e89";
+const char* ssid = "wifi adı girilecek";
+const char* password = "wifi şifresi girilecek";
 
 // Insert Firebase project API Key
-#define API_KEY "AIzaSyCNko_qYQKbJxHpUBcUNiuT-phe46FjlOM"
+#define API_KEY ""
 
 // Insert Authorized Email and Corresponding Password
-#define USER_EMAIL "anil88649@gmail.com"
-#define USER_PASSWORD "123456789"
+#define USER_EMAIL ""
+#define USER_PASSWORD ""
 
 // Insert Firebase storage bucket ID e.g bucket-name.appspot.com
-#define STORAGE_BUCKET_ID "bitirme-f3655.appspot.com"
+#define STORAGE_BUCKET_ID ""
 // For example:
 //#define STORAGE_BUCKET_ID "esp-iot-app.appspot.com"
 
